@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there, I am Ani, based in Seattle, Washington 👋
 
+## About Me
+
+- 🔭 I’m currently working on ... 
+-Something in Minecraft. Something huge. Something... Unforgettable.
+
+- I Like Trains :) 
 <!--
 **anidiotnon/anidiotnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
