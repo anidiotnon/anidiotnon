@@ -5,7 +5,9 @@
 - 🔭 I’m currently working on ... 
 Something in Minecraft. Something huge. Something... Unforgettable. And Someting Secret.
 
-- I Like Trains :) 
+- 📫 How to reach me: ...
+ani_non on discord
+
 <!--
 **anidiotnon/anidiotnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
