@@ -3,9 +3,7 @@
 ## About Me
 
 - 🔭 I’m currently working on ... 
-Something in Minecraft. Something huge. Something... Unforgettable.
-
-And Someting Secret.
+Something in Minecraft. Something huge. Something... Unforgettable. And Someting Secret.
 
 - I Like Trains :) 
 <!--
